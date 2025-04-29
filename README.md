@@ -36,7 +36,7 @@ Includes mortality data for:
 ## Files Included
 
 - `Mortality Analysis Dashboard.pdf`: Visual summary of the Power BI dashboard
-- `.pbix` file : 
+- `.pbix` file
 
 ## How to Use
 1. Download this repository
